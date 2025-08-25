@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Faith T-Shirt",
+    "price": 299,
+    "image": "shirt1.jpg"
+  },
+  {
+    "name": "Cross Hoodie",
+    "price": 499,
+    "image": "hoodie1.jpg"
+  },
+  {
+    "name": "Bible Journal",
+    "price": 199,
+    "image": "journal1.jpg"
+  }
+]

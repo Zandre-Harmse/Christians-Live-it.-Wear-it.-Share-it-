@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | Christians</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="Christians.Business.jpg" alt="Christians Logo" class="logo">
+        <h1>Contact Us</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="products.html">Products</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Get in Touch</h2>
+            <p><strong>Email:</strong> <a href="mailto:zandre.harmse.christians@gmail.com">zandre.harmse.christians@gmail.com</a></p>
+            <p><strong>Phone:</strong> +27 61 929 4702</p>
+            <p><strong>Address:</strong> Germiston, Gauteng</p>
+            <p><strong>Instagram:</strong> <a href="https://www.instagram.com/live.it_wear.it_share.it?igsh=YnlkeDNpbjBiZG8w" target="_blank">Visit Instagram</a></p>
+            <p><strong>WhatsApp Channel:</strong> <a href="https://whatsapp.com/channel/0029Vb6M056ATRSfLnWaXn0w" target="_blank">Join Here</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Christians. All rights reserved.</p>
+    </footer>
+</body>
+</html>
